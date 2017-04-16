@@ -9,6 +9,16 @@ Table Tournament Application
 
 """
 
+class Tournament:
+    """
+        Tournament
+    """
+    
+    def __init__(self):
+        self.matches = []
+    
+    
+    
 class Game:
     """
         Game
