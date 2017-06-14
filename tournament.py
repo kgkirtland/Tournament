@@ -3,7 +3,7 @@
 Created on Mon Apr  3 15:28:25 2017
 
 Kenny Kirtland
-@2015
+@2017
 
 Table Tournament Application
 
@@ -11,7 +11,7 @@ Table Tournament Application
 
 class Tournament:
     """
-        Tournament
+        Tournament 
     """
     
     def __init__(self):
